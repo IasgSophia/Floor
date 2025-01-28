@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lisav\\source\\repos\\MasterFloorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B31673-A8C1-40A1-959D-9086FA4D30A4}|MasterFloorApp\\MasterFloorApp.csproj|c:\\users\\lisav\\source\\repos\\masterfloorapp\\masterfloorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B31673-A8C1-40A1-959D-9086FA4D30A4}|MasterFloorApp\\MasterFloorApp.csproj|solutionrelative:masterfloorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lisav\\source\\repos\\MasterFloorApp\\MasterFloorApp\\Program.cs",
+              "RelativeDocumentMoniker": "MasterFloorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\lisav\\source\\repos\\MasterFloorApp\\MasterFloorApp\\Program.cs",
+              "RelativeToolTip": "MasterFloorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:33:24.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
